@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on with a Css/Frontend design ...
 - 📫 How to reach me ... Coming Soon
 
-A live project I did [Falcon Recovery](https://www.falcon-recovery.com).
+A live project I did <a href="https://www.falcon-recovery.com" target="_blank">Falcon Recovery</a>
 
 <!---
 LucidAmbiguity/LucidAmbiguity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
