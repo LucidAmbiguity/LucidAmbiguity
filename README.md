@@ -10,3 +10,4 @@ A live project I did <a href="https://www.falcon-recovery.com" target="_blank">F
 LucidAmbiguity/LucidAmbiguity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Lucid Ambiguity's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucidAmbiguity&show_icons=true&theme=radical)
